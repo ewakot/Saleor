@@ -1,0 +1,12 @@
+{
+  "name": "saleor",
+  "version": "1.0.0",
+  "description": "Tests for demo version of Saleor eCommerce platform.",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run"
+  },
+  "devDependencies": {
+    "cypress": "10.11.0"
+  }
+}
